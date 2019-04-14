@@ -7,7 +7,7 @@ This repository has projects related various type of wcf services
 This solution comprises of a simple wcf service and a client
 
 1, SimpleWcf.Service --> this serivice will return the integer value you passed to the GetData method with a text prefixed
-2, SimpleWcf.Service  --> This is a client which access the SimpleWcf.Service which is hosted in IIS using the proxy
+2, SimpleWcf.Client  --> This is a client which access the SimpleWcf.Service which is hosted in IIS using the proxy
 
 
 How to test this application once you download
