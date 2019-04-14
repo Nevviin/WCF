@@ -1,0 +1,7 @@
+D:\DotNetCode\WCF_Works\SimpleWcf\SimpleWcf.Service\bin\SimpleWcf.Service.dll.config
+D:\DotNetCode\WCF_Works\SimpleWcf\SimpleWcf.Service\bin\SimpleWcf.Service.dll
+D:\DotNetCode\WCF_Works\SimpleWcf\SimpleWcf.Service\bin\SimpleWcf.Service.pdb
+D:\DotNetCode\WCF_Works\SimpleWcf\SimpleWcf.Service\obj\Debug\SimpleWcf.Service.csproj.CoreCompileInputs.cache
+D:\DotNetCode\WCF_Works\SimpleWcf\SimpleWcf.Service\obj\Debug\SimpleWcf.Service.dll
+D:\DotNetCode\WCF_Works\SimpleWcf\SimpleWcf.Service\obj\Debug\SimpleWcf.Service.pdb
+D:\DotNetCode\WCF_Works\SimpleWcf\SimpleWcf.Service\obj\Debug\SimpleWcf.Service.csprojAssemblyReference.cache
